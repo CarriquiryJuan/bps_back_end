@@ -4,13 +4,3 @@ RemoteSystemsTempFiles/
 .proyect
 .classpath
 .recommenders/
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-SARPBusiness/bin/.gitignore
-SARPClasses/bin/.gitignore
->>>>>>> a6ad2ac... Agregado los archivos que faltaban de JPA al git ignore
-=======
-
-
->>>>>>> 6361a9e... Revert "Gitignore"
