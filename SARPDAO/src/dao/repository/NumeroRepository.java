@@ -23,7 +23,7 @@ public class NumeroRepository {
 	}
 	
 	
-	public void crearNumero(Tramite tramite,String nombre){
+	/*public void crearNumero(Tramite tramite,String nombre){
 		System.out.println("hola desde crearNumero1.1");
 		EntityManager em = getEntityManagerInstance();
 		Numero n = new Numero(tramite);
@@ -66,7 +66,7 @@ public class NumeroRepository {
     	em.remove(n);
 		em.getTransaction().commit();
     }
-	
+	*/
 	
 	/*public static void main(String[] args){
 		 System.out.println("1");
