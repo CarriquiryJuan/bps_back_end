@@ -1,7 +1,7 @@
 package classes;
 
 import java.util.Date;
-import java.util.List;
+
 
 public class Display {
 	private String rutaArchivo;
